@@ -6,11 +6,10 @@
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Employee Table.
 
-
+```
 --------------
 Employee Data
 ---------------
-```
 @relation employee
 @attribute name {x,y,z,a,b}
 @attribute id numeric
